@@ -1,5 +1,3 @@
-class Feature{
-
-//some new master-Features
-
+class Features{
+//Some development Features here.....
 }
